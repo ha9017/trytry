@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="מי אנחנו?"
+        android:onClick="Credits"/>
+
+    <item
+        android:title="לשאלות נפוצות"
+        android:onClick="Answers"/>
+
+    <item
+        android:title="לעריכת פרטי העסק"
+        android:onClick="change"/>
+
+</menu>
